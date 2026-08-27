@@ -1,4 +1,4 @@
-<img src="assets/profile.jpg" alt="Ijlal Assami" width="120"/>
+<!-- <img src="assets/profile.jpg" alt="Ijlal Assami" width="120"/> -->
 
 # Hi, I'm Ijlal Assami 👋
 
